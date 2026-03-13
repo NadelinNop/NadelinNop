@@ -1,16 +1,22 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**NadelinNop/NadelinNop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<table>
+<tr>
+<td align="center" >
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=400&style=italic&size=30&pause=1000&color=FFFFFF&center=false&vCenter=true&width=400&lines=Hello+World;I'm+Nadelin;Software+Engineer)](https://git.io/typing-svg)
+
+</td>
+<td align="center" >
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=180&text=🧙‍♀️&fontSize=120&animation=twinkling"/>
+
+</td>
+</tr>
+</table>
+
+
+
+
+</div>
